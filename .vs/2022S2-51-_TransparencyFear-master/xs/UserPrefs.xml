@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{CFF53C0B-E52F-F0AE-BBF1-76CFBCFE52B9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/AniController.cs">
+    <Files>
+      <File FileName="../COMP602_Sprint1/Sprint1/Assets/Script/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="../COMP602_Sprint1/Sprint1/Assets/Script/SceneController.cs" Line="1" Column="1" />
+      <File FileName="../COMP602_Sprint1/Sprint1/Assets/Script/AniController.cs" Line="1" Column="1" />
+      <File FileName="../COMP602_Sprint1/Sprint1/Assets/Script/AniSprite.cs" Line="1" Column="1" />
+      <File FileName="../COMP602_Sprint1/Sprint1/Assets/Script/CollisionTest.cs" Line="1" Column="1" />
+      <File FileName="../COMP602_Sprint1/Sprint1/Assets/Script/Diamond.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Diamond.cs" Line="30" Column="3" />
+      <File FileName="Assets/Script/coinManager.cs" Line="9" Column="35" />
+      <File FileName="Assets/Script/AniController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2022S2-51-_TransparencyFear-master" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c1daf2ba-5e58-4ae0-a807-22397cbfc964" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
